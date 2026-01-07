@@ -1,13 +1,21 @@
-# TicTacToe (Java)
-
+Tic-Tac-Toe (Java Console)
 A simple console-based Tic-Tac-Toe game implemented in Java.
 
-Build and run (from repository root):
+✅ Prerequisites
 
-1. Compile:
+Visual Studio Code installed
+Extension Pack for Java installed in VS Code
+Java Development Kit (JDK) installed (version 17+ recommended)
 
-javac -d out src/main/java/com/copilot/tictactoe/TicTacToe.java
 
-2. Run:
+▶️ How to Run in VS Code
 
-java -cp out com.copilot.tictactoe.TicTacToe
+Open VS Code.
+Click File → Open Folder and select the project folder (which already contains the correct structure).
+Open TicTacToe.java in the editor.
+At the top of the main method, you’ll see a Run ➤ button.
+
+Click Run and the program will execute in the integrated terminal.
+
+
+OUTPUT
