@@ -1,0 +1,6 @@
+/out
+*.class
+/.idea
+/.vscode
+target/
+.DS_Store
